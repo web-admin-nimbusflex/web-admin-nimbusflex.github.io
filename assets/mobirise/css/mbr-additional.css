@@ -3255,6 +3255,10 @@ body {
   width: 25px;
   height: 25px;
   border-radius: 50%;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
+  content: '✓';
 }
 .cid-rr8qKOYojl {
   padding-top: 60px;
@@ -3295,6 +3299,7 @@ body {
   width: 25px;
   height: 25px;
   border-radius: 50%;
+  border-radius: 0;
   content: '✓';
 }
 .cid-rr8qLuoZGd {
