@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nimbusflex.com",
-    "currentPage": "index.html",
+    "currentPage": "Stakeholders.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,13 +36,8 @@
     "versionFirst": "4.10.0",
     "siteFonts": [],
     "uniqCompNum": 51,
-    "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146229947-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-146229947-3');\r\n</script>",
-    "siteUrl": "undefined",
-    "gdpr": ""
+    "versionPublish": "4.10.0",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
